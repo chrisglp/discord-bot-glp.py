@@ -1,1 +1,4 @@
-#Chrisglp Discord Bot.py
+*.db
+*.db.journal
+__pychache__
+lib/bot/token.0
